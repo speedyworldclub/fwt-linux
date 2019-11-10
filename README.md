@@ -1,2 +1,1 @@
-# linux2
-# linux2
+# Linux from FriendlyWRT
